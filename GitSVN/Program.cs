@@ -14,6 +14,8 @@ namespace GitSVN
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            //hiii
+            //    go tohell
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
